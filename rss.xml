@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Delightfully Discombobulated]]></title>
+        <description><![CDATA[Delightfully Discombobulated]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Wed, 10 Feb 2016 03:43:08 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Starting Over Again]]></title>
+            <description><![CDATA[<article><h1>Starting Over Again</h1><p>Reagan loves his new Early Childhood School!  Our only issue so far has been morning car ramp.  They are about to have to do some staff training (at my request, actually) because they have some staff members who, in the past, worked with typical kids and don't seem to get that a child in a SLC classroom doesn't always follow verbal directions or make eye contact ESPECIALLY if the staff member is unfamiliar.  We have had to modify Reagan's drop off procedure for a few weeks to avoid complete meltdowns that included laying on the concrete and refusing to move.  (and staff members telling him to look at them and listen to their instructions.)  That has been the ONLY issue, though!  He does love it there and is always excited to see the building.  He loves his teacher and one of the aides.  The other one they are still working on him responding to her at all.  His class will be full next week with the addition of one more boy.  That will be 5 children with 3 adults!  Yippee!!!!</p></article>]]></description>
+            <link>undefinedstarting-over-again/index.html</link>
+            <guid isPermaLink="false">27d036c0-7e97-4f64-b026-fd8bf82c062d</guid>
+            <pubDate>Wed, 10 Feb 2016 03:43:00 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
